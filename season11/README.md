@@ -7,4 +7,4 @@
 | [Connected](WP/Connected.md) | Linux   | Easy       | 6th June, 2026  |
 | Checkpoint                                       | Windows | Medium     | 13th June, 2026 |
 
-[← Back to seasons](/README)
+[← Back to seasons](htb-season/README)
