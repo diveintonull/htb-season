@@ -7,3 +7,4 @@
 | [Connected](WP/Connected.md)   | Linux   | Easy       | 6th June, 2026  |
 | [Checkpoint](WP/Checkpoint.md) | Windows | Medium     | 13th June, 2026 |
 | [Nimbus](WP/Nimbus.md)         | Linux   | Hard       | 20th June, 2026 |
+| [Enigma](WP/Enigma.md)         | Linux   | Easy       | 27th June, 2026 |
